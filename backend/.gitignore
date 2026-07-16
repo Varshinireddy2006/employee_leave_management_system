@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# Maven wrapper (optional — keep if you want Railway to use it)
+# .mvn/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.class
+
+# Logs
+*.log
+logs/
+
+# Local env overrides (never commit real credentials)
+application-local.properties
